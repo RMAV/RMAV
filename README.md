@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+<a href="https://wakatime.com/@RMAV"><img src="https://wakatime.com/badge/user/bacb20eb-8315-4328-9bff-c8bf2e664938.svg"width="250" height="30"/></a>
+</p>
+
 <!--
 **RMAV/RMAV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
