@@ -1,7 +1,9 @@
+<p align="center">
 ### Hi there 👋
+</p>
 
 <p align="center">
-<a href="https://wakatime.com/@RMAV"><img src="https://wakatime.com/badge/user/bacb20eb-8315-4328-9bff-c8bf2e664938.svg"width="250" height="30"/></a>
+<a href="https://wakatime.com/@RMAV"><img src="https://wakatime.com/badge/user/bacb20eb-8315-4328-9bff-c8bf2e664938.svg"width="200" height="30"/></a>
 </p>
 
 <!--
